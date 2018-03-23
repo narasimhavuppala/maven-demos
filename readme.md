@@ -27,4 +27,6 @@
 ## Plug-ins 
 ## Snap Shots
 ## Maven Profiles
+ * Profiles are great way to filter the projects from available pool
+ * [Maven documentation is here ](http://maven.apache.org/guides/introduction/introduction-to-profiles.html)
  
