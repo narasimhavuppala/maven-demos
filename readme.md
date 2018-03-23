@@ -1,12 +1,21 @@
 # This projects show cases Maven
 ##  Properties
 * versions 
-##  Build Life cycle
+##  Goals
 * validate 
 * compile 
 * test 
 * install 
 * deploy
+## Build Section
+  * How to change final name
+## Scopes
+ * compile
+ * runtime
+ * test
+ * provided
+ * system
+ * import
 ## IDE Integration
 ## Multi Module
 ## Parent POM 
