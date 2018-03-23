@@ -26,6 +26,8 @@
 ## Settings.XML file generation
 ## Proxy and Mirrors setup
 ## Plug-ins 
+  * [Maven doc](http://maven.apache.org/plugins/index.html)
+  *  Maven is collection of Build + reporting plugins
 ## Snap Shots
 ## Maven Profiles
  * Profiles are great way to filter the projects from available pool
