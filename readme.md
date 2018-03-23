@@ -9,13 +9,15 @@
 * deploy
 ## Build Section
   * How to change final name
-## Scopes
+## Scopes  
+  [Maven documentation can be seen here]( http://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#Dependency_Scope)
  * compile
  * runtime
  * test
  * provided
  * system
  * import
+
 ## IDE Integration
 ## Multi Module
 ## Parent POM 
