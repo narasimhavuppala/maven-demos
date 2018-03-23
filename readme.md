@@ -2,6 +2,7 @@
 ##  Properties
 * versions 
 ##  Goals
+* [Maven documentation is here ](http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
 * validate 
 * compile 
 * test 
